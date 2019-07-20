@@ -11,7 +11,7 @@
                                 <div class="card-body text-center">
 <p>Welcome to the Hodler Energy Mining Pool.<br>
 Please  <a href=https://t.me/hodlerenergy>join</a> us on Telegram to get in touch with us.<br>
-Or <a href=https://t.me/hodlerenergy>click here</a> to learn more about Hodler Energy.
+Or <a href=https://hodler.energy>click here</a> to learn more about Hodler Energy.
 </p>
                                 </div>
                             </div>  
