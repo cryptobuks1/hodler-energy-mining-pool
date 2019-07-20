@@ -113,3 +113,42 @@ Paddings
     .p-0
 
 ---
+
+
+Dependencies
+Bootstrap
+
+Doc: https://getbootstrap.com
+Datatables
+
+Doc: https://datatables.net
+Datepicker
+
+Doc: http://amsul.ca/pickadate.js
+Cropper
+
+Doc: https://github.com/fengyuanchen/cropper
+echarts
+
+Echart Doc
+Ladda
+
+Doc: http://lab.hakim.se/ladda
+Slider
+
+Doc: https://refreshless.com/nouislider/
+Qill Rich text editor
+
+Doc: https://quilljs.com
+Sweetalert2
+
+Doc: https://sweetalert2.github.io
+TaggingJs
+
+Doc: http://sniperwolf.github.io/taggingJS
+Toastr
+
+Doc: https://codeseven.github.io/toastr
+perfect-scrollbar
+
+Doc: https://github.com/noraesae/perfect-scrollbar
