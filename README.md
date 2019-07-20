@@ -6,8 +6,6 @@ Dashboard for the Hodler Energy Mining Pool using the Laravel Framework.
 
 Laravel Installation:
 
-Gull Laravel Version
-If you want to build your next Project Using Laravel, Then Gull-laravel Version Is Good Choice For you. There is Two Laravel Version included (1.Laravel starter kit and 2.Laravel full Verison) . You can start with what ever you prefer and get all the features available in the Gull Html Version .Its Fresh and Updated Laravel version(Laravel 5.7) with all features and assets. You can either take the parts you want and integrate them into your current project Or You can follow these stpes to make the Gull-Laravel working.
 Server Requirement
 
 The Laravel framework has a few system requirements. Of course, all of these requirements are satisfied by the Laravel Homestead virtual machine, so it's highly recommended that you use Homestead as your local Laravel development environment.
@@ -27,9 +25,8 @@ However, if you are not using Homestead, you will need to make sure your server 
 Installation Steps:
 
     composer install
-    npm install
 
-    Now Need Rename the .env.example to .env
+    npm install
 
     php artisan key:generate
 
@@ -37,10 +34,13 @@ Now Need some Laravel Commands
 
     php artisan serve
     Serves your project
+
     npm run watch
     Watches your files and compiles your assets on the fly (also auto reloads your browser)
+
     npm run dev
     Compiles your assets
+
     npm run prod
     Compiles and prepares your assets for production
 
